@@ -1,4 +1,4 @@
-Welcome to your new Rails 7 using Hotwire!
+Welcome to your new Rails 7 using Hotwire server!
 
 REQUIRMENTS:
   -Ruby 3.1.2

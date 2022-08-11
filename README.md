@@ -4,7 +4,7 @@ REQUIRMENTS:
   -Ruby 3.1.2
 
 INSTALLATION INSTRUCTIONS:
-Please run the following commands one at a time from a directory of your choice inside your command line interface. The first command will create your APP in the folder "Briteco" inside the directory you are currently in.
+Please run the following commands one at a time from a directory of your choice inside your command line interface. The first command will create your APP in the "Briteco" folder within the directory you are currently.
 
 === 
 

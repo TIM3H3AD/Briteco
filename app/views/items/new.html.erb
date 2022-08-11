@@ -1,0 +1,9 @@
+<main class="container">
+  <%= link_to sanitize("&larr; Back to BriteCo"), items_path %>
+
+  <div class="header">
+    <h1>Add your gem to the BriteCo galaxy.</h1>
+  </div>
+
+  <%= render "form", item: @item %>
+</main>

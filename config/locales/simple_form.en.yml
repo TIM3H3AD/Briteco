@@ -1,0 +1,14 @@
+en:
+  simple_form:
+    placeholders:
+      item:
+        name: Name of your item
+    labels:
+      item:
+        name: Name
+
+  helpers:
+    submit:
+      item:
+        create: Create item
+        update: Update item

@@ -1,0 +1,10 @@
+<main class="container">
+  <%= link_to sanitize("&larr; Back to item"), item_path(@item) %>
+
+  <div class="header">
+    <h1>"Please update your details"</h1>
+    <p>Need Help? <u>Ask a BriteCo wizard!</u></p>
+  </div>
+
+  <%= render "form", item: @item %>
+</main>

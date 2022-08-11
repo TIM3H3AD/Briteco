@@ -19,6 +19,8 @@ bin/dev
 
 rails assets:precompile
 
+rails s
+
 
 === 
 

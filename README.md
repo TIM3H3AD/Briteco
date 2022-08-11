@@ -1,24 +1,18 @@
-# README
+Welcome to your new Rails 7 using Hotwire!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+REQUIRMENTS:
+  -Ruby 3.1.2
 
-Things you may want to cover:
+INSTALLATION INSTRUCTIONS:
+Please run the following commands one at a time from a directory of your choice inside your LINUX terminal. The first command will create your APP in the folder "Briteco" inside the directory you are currently in.
 
-* Ruby version
+git clone git@github.com:TIM3H3AD/Briteco.git
+cd Briteco
+bin/setup
+bin/dev
 
-* System dependencies
+That's it! Now open a browser and navigate to: localhost:3000 
 
-* Configuration
+Your server should be running! 
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Please contact fdic.313@gmail.com for setup support.

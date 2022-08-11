@@ -6,7 +6,7 @@ REQUIRMENTS:
 INSTALLATION INSTRUCTIONS:
 Please run the following commands one at a time from a directory of your choice inside your LINUX terminal. The first command will create your APP in the folder "Briteco" inside the directory you are currently in.
 
-=== begin commands list 
+=== 
 
 
 git clone git@github.com:TIM3H3AD/Briteco.git
@@ -20,7 +20,7 @@ bin/dev
 rails assets:precompile
 
 
-=== end commands list
+=== 
 
 That's it! Now open a browser and navigate to: localhost:3000 
 

@@ -32,8 +32,8 @@ Your server should be running!
 
 Please contact fdic.313@gmail.com for setup support
 
-TO DO:  ACTIVATE TURBO
-        ADD API
+TO DO:  ACTIVATE TURBO, 
+        ADD API, 
         ADD TAILWINDS
     
         

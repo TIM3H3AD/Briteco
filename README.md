@@ -1,7 +1,7 @@
 Welcome to your new Rails 7 using Hotwire server!
 
-REQUIRMENTS:
-  -Ruby 3.1.2
+REQUIREMENTS:
+  Ruby 3.1.2
 
 INSTALLATION INSTRUCTIONS:
 Please run the following commands one at a time from a directory of your choice inside your command line interface. The first command will create your APP in the "Briteco" folder within the directory you are currently.

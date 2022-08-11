@@ -15,4 +15,4 @@ That's it! Now open a browser and navigate to: localhost:3000
 
 Your server should be running! 
 
-Please contact fdic.313@gmail.com for setup support.
+Please contact fdic.313@gmail.com for setup support
